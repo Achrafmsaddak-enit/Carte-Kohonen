@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652584522 source:c:\users\lenovo\onedrive - ensta paris\bureau\projet info\self organizing map\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
